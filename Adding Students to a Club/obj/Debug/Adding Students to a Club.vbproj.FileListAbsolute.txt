@@ -1,0 +1,12 @@
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW7\Adding Students to a Club\Adding Students to a Club\bin\Debug\Adding Students to a Club.exe.config
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW7\Adding Students to a Club\Adding Students to a Club\bin\Debug\Adding Students to a Club.exe
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW7\Adding Students to a Club\Adding Students to a Club\bin\Debug\Adding Students to a Club.pdb
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW7\Adding Students to a Club\Adding Students to a Club\bin\Debug\Adding Students to a Club.xml
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW7\Adding Students to a Club\Adding Students to a Club\obj\Debug\Adding Students to a Club.vbprojAssemblyReference.cache
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW7\Adding Students to a Club\Adding Students to a Club\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW7\Adding Students to a Club\Adding Students to a Club\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW7\Adding Students to a Club\Adding Students to a Club\obj\Debug\Adding Students to a Club.vbproj.GenerateResource.cache
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW7\Adding Students to a Club\Adding Students to a Club\obj\Debug\Adding Students to a Club.vbproj.CoreCompileInputs.cache
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW7\Adding Students to a Club\Adding Students to a Club\obj\Debug\Adding Students to a Club.exe
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW7\Adding Students to a Club\Adding Students to a Club\obj\Debug\Adding Students to a Club.xml
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW7\Adding Students to a Club\Adding Students to a Club\obj\Debug\Adding Students to a Club.pdb
